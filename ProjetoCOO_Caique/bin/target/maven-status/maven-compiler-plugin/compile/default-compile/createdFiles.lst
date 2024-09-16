@@ -1,0 +1,16 @@
+com\mycompany\projetocoo_caique\entity\player\Player.class
+com\mycompany\projetocoo_caique\MyFrame.class
+com\mycompany\projetocoo_caique\enums\point\Point.class
+com\mycompany\projetocoo_caique\entity\enemy3\Enemy3.class
+com\mycompany\projetocoo_caique\entity\playerProjectile\PlayerProjectile.class
+com\mycompany\projetocoo_caique\entity\enemyProjectile3\EnemyProjectile3.class
+com\mycompany\projetocoo_caique\entity\enemeProjectile\EnemyProjectile.class
+com\mycompany\projetocoo_caique\entity\Entity.class
+com\mycompany\projetocoo_caique\entity\enemy1\Enemy1.class
+com\mycompany\projetocoo_caique\entity\background\Background.class
+com\mycompany\projetocoo_caique\entity\enemy2\Enemy2.class
+com\mycompany\projetocoo_caique\MyKeyAdapter.class
+com\mycompany\projetocoo_caique\enums\States.class
+com\mycompany\projetocoo_caique\Main.class
+com\mycompany\projetocoo_caique\GameLib.class
+com\mycompany\projetocoo_caique\entity\powerup\powerup.class

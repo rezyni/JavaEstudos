@@ -1,0 +1,16 @@
+com\mycompany\cooprojeto\MyKeyAdapter.class
+entity\enemy3\Enemy3.class
+point\Point.class
+entity\enemy2\Enemy2.class
+entity\enemyProjectile\EnemyProjectile.class
+enums\States.class
+entity\enemy1\Enemy1.class
+entity\enemyProjectile3\EnemyProjectile3.class
+entity\Entity.class
+entity\playerProjectile\PlayerProjectile.class
+entity\background\Background.class
+com\mycompany\cooprojeto\Main.class
+entity\player\Player.class
+com\mycompany\cooprojeto\MyFrame.class
+com\mycompany\cooprojeto\GameLib.class
+entity\powerup\powerup.class
