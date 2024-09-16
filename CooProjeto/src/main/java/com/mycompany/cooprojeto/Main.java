@@ -24,7 +24,7 @@ import entity.background.*;
 /***********************************************************************/
 
 public class Main {
-	
+	/*testegit*/
 	/* Espera, sem fazer nada, até que o instante de tempo atual seja */
 	/* maior ou igual ao instante especificado no parâmetro "time.    */
 
